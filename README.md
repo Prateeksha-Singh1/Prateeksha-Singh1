@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Open Source Java and MERN Stack Projects](https://github.com/Prateeksha-Singh1)
 
-- 🤝 I’m looking for help with **AI Interviwe Prepration**
+- 🤝 I’m looking for help with **AI Interview Prepration**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prateeksha-Singh1](https://github.com/Prateeksha-Singh1)
 
