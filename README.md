@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prateeksha Singh</h1>
-<h3 align="center">Java Full Stack Developer | Building Scalable Web Applications with Java, React & Modern Technologies</h3>
+<h3 align="center"> BTech CSE 3rd Year | Java + DSA | Aspiring Full Stack Developer | Building toward MNC roles </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateeksha-singh1&label=Profile%20views&color=0e75b6&style=flat" alt="prateeksha-singh1" /> </p>
 
