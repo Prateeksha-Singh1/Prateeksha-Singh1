@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Prateeksha Singh</h1>
 <h3 align="center">BTech CSE 3rd Year | Java + DSA | Aspiring Full Stack Developer | Building toward MNC roles</h3>
 
@@ -7,7 +6,7 @@
 </p>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=prateeksha-singh1" alt="prateeksha-singh1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prateeksha-singh1" alt="prateeksha-singh1" />
   </a> 
 </p>
 - 🔭 I’m currently working on **AI Interview Preparation Full Stack Web Applications using Java, Spring Boot & React**
@@ -101,14 +100,14 @@
 </p>
 
 <p>
- <img align="left"
-     src="https://github-readme-stats-multiuser.vercel.app/api/top-langs?username=Prateeksha-Singh1&show_icons=true&locale=en&layout=compact"
-     alt="Prateeksha-Singh1" />
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=Prateeksha-Singh1&show_icons=true&locale=en&layout=compact"
+       alt="Prateeksha-Singh1" />
 </p>
 
 <p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=Prateeksha-Singh1&show_icons=true&locale=en&layout=compact"
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=Prateeksha-Singh1&show_icons=true&locale=en"
        alt="Prateeksha-Singh1" />
 </p>
 
@@ -117,4 +116,3 @@
        src="https://github-readme-streak-stats.herokuapp.com/?user=Prateeksha-Singh1"
        alt="Prateeksha-Singh1" />
 </p>
-
