@@ -6,7 +6,12 @@ html
   <img src="https://komarev.com/ghpvc/?username=Prateeksha-Singh1&label=Profile%20views&color=0e75b6&style=flat" alt="Prateeksha-Singh1" />
 </p>
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prateeksha-Singh1&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=prateeksha-singh1&theme=algolia&no-frame=true&no-bg=true&margin-w=15"
+      alt="GitHub Trophies"
+    />
+  </a>
 </p>
 - 🔭 I’m currently working on **AI Interview Preparation Full Stack Web Applications using Java, Spring Boot & React**
 
