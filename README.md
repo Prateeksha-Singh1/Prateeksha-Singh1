@@ -1,4 +1,4 @@
-html
+
 <h1 align="center">Hi 👋, I'm Prateeksha Singh</h1>
 <h3 align="center">BTech CSE 3rd Year | Java + DSA | Aspiring Full Stack Developer | Building toward MNC roles</h3>
 
