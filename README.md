@@ -7,7 +7,7 @@
 </p>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=prateeksha-singh1" alt="prateeksha-singh1" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=prateeksha-singh1" alt="prateeksha-singh1" />
   </a> 
 </p>
 - 🔭 I’m currently working on **AI Interview Preparation Full Stack Web Applications using Java, Spring Boot & React**
@@ -101,9 +101,9 @@
 </p>
 
 <p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=Prateeksha-Singh1&show_icons=true&locale=en&layout=compact"
-       alt="Prateeksha-Singh1" />
+ <img align="left"
+     src="https://github-readme-stats-multiuser.vercel.app/api/top-langs?username=Prateeksha-Singh1&show_icons=true&locale=en&layout=compact"
+     alt="Prateeksha-Singh1" />
 </p>
 
 <p>
