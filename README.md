@@ -9,7 +9,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=prateeksha-singh1" alt="prateeksha-singh1" />
   </a> 
 </p>
-- 🔭 I’m currently working on **AI Interview Preparation Full Stack Web Applications using Java, Spring Boot & React**
+- 🔭 I’m currently working on AI Interview Preparation Full Stack Web Applications using Java, Spring Boot & React
 
 - 🌱 I’m currently learning **Spring Boot, REST APIs, System Design & Cloud Technologies**
 
